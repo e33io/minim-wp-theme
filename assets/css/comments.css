@@ -1,0 +1,73 @@
+div.comments-area {
+	margin-top: -0.094rem;
+	margin-bottom: 3.2rem;
+}
+h3.comment-reply-title,
+h4.comments-title {
+	font-size: 1.375rem;
+	margin: 1rem 0 0 0;
+}
+p.comment-notes,
+p.logged-in-as,
+a.comment-reply-link {
+	font-size: 0.875rem;
+	margin: 0 0 1rem 0;
+}
+.comment-metadata {
+	font-size: 0.688rem;
+}
+.comment-form label {
+	display: block;
+}
+p.form-submit {
+	margin: 1.3rem 0 1rem 0;
+}
+.comment-body {
+	border-left: var(--std-brdr) solid;
+	padding-left: 0.938rem;
+	margin: 2rem 0;
+}
+.comment-list .children {
+	margin-left: calc(1rem + 5vw);
+}
+.comment-author img.avatar,
+.wp-block-latest-comments img.avatar {
+	background: var(--img-brdr);
+	outline: none;
+	border: 1px solid var(--img-brdr);
+	border-radius: 24px;
+	margin-bottom: 0.2rem;
+}
+.comment-navigation {
+	margin: 2.5rem 0 2rem 0;
+}
+.comment-navigation h6 {
+	font-size: 1.125rem;
+	margin: 0.75rem 0;
+}
+a#cancel-comment-reply-link {
+	display: block;
+	font-size: 0.875rem;
+	font-weight: 400;
+	text-decoration: underline;
+	margin: 0.3rem 0 0.5rem 0;
+}
+p.comment-form-author input#author,
+p.comment-form-email input#email {
+	width: 90%;
+}
+@media (min-width: 767px) {
+	.comment-list .children {
+		margin-left: 3.8rem;
+	}
+	p.comment-form-author input#author,
+	p.comment-form-email input#email {
+		width: 66%;
+	}
+}
+@media (min-width: 1113px) {
+	p.comment-form-author input#author,
+	p.comment-form-email input#email {
+		width: 50%;
+	}
+}
