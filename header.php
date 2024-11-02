@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-<!-- minim wp theme - https://git.sr.ht/~e33io/minim-wp-theme -->
+<!-- minim wp theme - https://github.com/e33io/minim-wp-theme -->
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="<?php bloginfo( 'description' ); ?> - all content &copy; <?php bloginfo( 'name' ); ?> - all rights reserved" />
