@@ -14,7 +14,7 @@ minimalistic photo blog theme for [WordPress](https://wordpress.org) - view a li
 
 - page/post navigation on home, single post, search and archives pages
 
-- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://git.sr.ht/~e33io/fonts/tree/main/item/PlexMonoMod) fonts
+- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://github.com/e33io/fonts?tab=readme-ov-file#plexmonomod) fonts
 
 - PHP functions include:
 	- Site Icon login logo
@@ -35,4 +35,4 @@ minimalistic photo blog theme for [WordPress](https://wordpress.org) - view a li
 	- video posts need a thumbnail image created and added to the post as a Feature Image
 
 ### License
-[BSD Zero Clause License](https://git.sr.ht/~e33io/minim-wp-theme/tree/main/item/LICENSE)
+[BSD Zero Clause License](https://github.com/e33io/minim-wp-theme/blob/main/LICENSE)
