@@ -14,7 +14,7 @@ minimalistic photo blog theme for [WordPress](https://wordpress.org) - view a li
 
 - page/post navigation on home, single post, search and archives pages
 
-- [Inter](https://rsms.me/inter) and [PlexMonoMod](https://github.com/e33io/fonts?tab=readme-ov-file#plexmonomod) fonts
+- [Inter](https://rsms.me/inter) and [SovranMono](https://github.com/e33io/sovran-fonts/tree/main/SovranMono) fonts
 
 - PHP functions include:
 	- Site Icon login logo

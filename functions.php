@@ -43,7 +43,7 @@ add_action( 'enqueue_block_editor_assets', 'minim_block_editor_styles' );
 function minim_load_scripts() {
 	wp_enqueue_style( 'minim-style', get_stylesheet_uri() );
 	wp_enqueue_style( 'minim-inter-font', get_theme_file_uri( '/assets/fonts/inter/inter.css' ), false );
-	wp_enqueue_style( 'minim-plexmonomod-font', get_theme_file_uri( '/assets/fonts/plexmonomod/plexmonomod.css' ), false );
+	wp_enqueue_style( 'minim-sovranmono-font', get_theme_file_uri( '/assets/fonts/sovranmono/sovranmono.css' ), false );
 	if ( ( ! is_admin() ) && is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
